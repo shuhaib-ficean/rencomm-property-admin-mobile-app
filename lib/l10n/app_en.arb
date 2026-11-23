@@ -1,0 +1,839 @@
+{
+  "@@locale": "en",
+  "appTitle": "Rencomm Admin",
+  "@appTitle": {
+    "description": "The application title"
+  },
+  "welcomeBack": "Welcome Back",
+  "@welcomeBack": {
+    "description": "Welcome message on login screen"
+  },
+  "signInToContinue": "Sign in to continue to your account",
+  "@signInToContinue": {
+    "description": "Subtitle on login screen"
+  },
+  "emailAddress": "Email address",
+  "@emailAddress": {
+    "description": "Email input label"
+  },
+  "password": "Password",
+  "@password": {
+    "description": "Password input label"
+  },
+  "signIn": "Sign in",
+  "@signIn": {
+    "description": "Sign in button text"
+  },
+  "signingIn": "Signing in...",
+  "@signingIn": {
+    "description": "Loading state text for sign in"
+  },
+  "emailRequired": "Email is required",
+  "@emailRequired": {
+    "description": "Email validation error"
+  },
+  "invalidEmail": "Please enter a valid email",
+  "@invalidEmail": {
+    "description": "Invalid email validation error"
+  },
+  "passwordRequired": "Password is required",
+  "@passwordRequired": {
+    "description": "Password validation error"
+  },
+  "secureLoginFooter": "Secure login powered by Ficean Technology",
+  "@secureLoginFooter": {
+    "description": "Footer text on login screen"
+  },
+  "dashboard": "Dashboard",
+  "@dashboard": {
+    "description": "Dashboard screen title"
+  },
+  "welcomeToDashboard": "Welcome to Dashboard",
+  "@welcomeToDashboard": {
+    "description": "Dashboard welcome message"
+  },
+  "dashboardFeaturesComingSoon": "Dashboard features coming soon...",
+  "@dashboardFeaturesComingSoon": {
+    "description": "Dashboard placeholder text"
+  },
+  "logout": "Logout",
+  "@logout": {
+    "description": "Logout button text"
+  },
+  "adminPortal": "Admin Portal",
+  "@adminPortal": {
+    "description": "Splash screen title"
+  },
+  "ficeanSmartRental": "Rencomm Smart Rental Management",
+  "@ficeanSmartRental": {
+    "description": "Splash screen Subtitle"
+  },
+  "properties": "Properties",
+  "@properties": {
+    "description": "Properties tab label"
+  },
+  "people": "People",
+  "@people": {
+    "description": "People tab label"
+  },
+  "profile": "Profile",
+  "@profile": {
+    "description": "Profile tab label"
+  },
+  "account": "Account",
+  "@account": {
+    "description": "Account section header"
+  },
+  "editProfile": "Edit Profile",
+  "@editProfile": {
+    "description": "Edit Profile option"
+  },
+  "notifications": "Notifications",
+  "@notifications": {
+    "description": "Notifications option"
+  },
+  "settings": "Settings",
+  "@settings": {
+    "description": "Settings section header"
+  },
+  "darkMode": "Dark Mode",
+  "@darkMode": {
+    "description": "Dark Mode option"
+  },
+  "language": "Language",
+  "@language": {
+    "description": "Language option"
+  },
+  "support": "Support",
+  "@support": {
+    "description": "Support section header"
+  },
+  "helpSupport": "Help & Support",
+  "@helpSupport": {
+    "description": "Help & Support option"
+  },
+  "error": "Error",
+  "@error": {
+    "description": "Error Message"
+  },
+  "noNotification": "No notifications",
+  "@noNotification": {
+    "description": "No notifications Message"
+  },
+  "pleaseSelectTenantAndProperty": "Please select tenant and property",
+  "@pleaseSelectTenantAndProperty": {
+    "description": "Please select tenant and property Message"
+  },
+  "recordPayment": "Record Payment",
+  "@recordPayment": {
+    "description": "Record Payment option"
+  },
+  "payments": "Payments",
+  "@payments": {
+    "description": "Payments option"
+  },
+  "noPaymentsFound": "No payments found",
+  "@noPaymentsFound": {
+    "description": "No payments found Message"
+  },
+  "addNewPerson":"Add New Person",
+  "@addNewPerson": {
+    "description": "Add New Person option"
+  },
+  "contractStartDate":"Contract Start Date",
+  "@contractStartDate": {
+    "description": "Contract Start Date option"
+  },
+  "contractEndDate":"Contract End Date",
+  "@contractEndDate": {
+    "description": "Contract End Date option"
+  },
+  "people":"People",
+  "@people": {
+    "description": "People tab label"
+  },
+  "noTenantsFound":"No tenants found",
+  "@noTenantsFound": {
+    "description": "No tenants found Message"
+  },
+  "noStaffFound":"No staff found",
+  "@noStaffFound": {
+    "description": "No staff found Message"
+  },
+  "numberOfRoomsMustBeGreaterThanZero": "Number of rooms must be greater than 0",
+  "@numberOfRoomsMustBeGreaterThanZero": {
+    "description": "Number of rooms must be greater than 0 Message"
+  },
+  "floorsAndUnitsMustBeGreaterThanZero": "Floors and units must be greater than 0",
+  "@floorsAndUnitsMustBeGreaterThanZero": {
+    "description": "Floors and units must be greater than 0 Message"
+  },
+  "flat": "Flat",
+  "@flat": {
+    "description": "Flat option"
+  },
+  "villa": "Villa",
+  "@villa": {
+    "description": "Villa option"
+  },
+  "configureProperty": "Configure Property",
+  "@configureProperty": {
+    "description": "Configure Property option"
+  },
+  "back": "Back",
+  "@back": {
+    "description": "Back option"
+  },
+  "saveProperty": "Save Property",
+  "@saveProperty": {
+    "description": "Save Property option"
+  },
+  "roomsConfiguration": "Rooms Configuration",
+  "@roomsConfiguration": {
+    "description": "Rooms Configuration option"
+  },
+  "addRoom": "Add Room",
+  "@addRoom": {
+    "description": "Add Room option"
+  },
+  "floorsAndUnits": "Floors & Units",
+  "@floorsAndUnits": {
+    "description": "Floors & Units option"
+  },
+  "addFloor": "Add Floor",
+  "@addFloor": {
+    "description": "Add Floor option"
+  },
+  "addUnit": "Add Unit",
+  "@addUnit": {
+    "description": "Add Unit option"
+  },
+  "noPropertiesFound": "No Properties Found",
+  "@noPropertiesFound": {
+    "description": "No Properties Found option"
+  },
+  "addProperty": "Add Property",
+  "@addProperty": {
+    "description": "Add Property option"
+  },
+  "retry": "Retry",
+  "@retry": {
+    "description": "Retry option"
+  },
+  "failedToLoadProperties": "Failed to load properties",
+  "@failedToLoadProperties": {
+    "description": "Failed to load properties option"
+  },
+  "phoneNumberIsRequired" :"Phone number is required",
+  "@phoneNumberIsRequired" :{
+    "description": "Phone number is required option"
+  },
+  "enterValidPhoneNumber" :"Please enter a valid phone number",
+  "@enterValidPhoneNumber" :{
+    "description": "Please enter a valid phone number option"
+  },
+  "emailIsRequired" :"Email is required",
+  "@emailIsRequired" :{
+    "description": "Email is required option"
+  },
+  "enterValidEmail" :"Please enter a valid email",
+  "@enterValidEmail" :{
+    "description": "Please enter a valid email option"
+  },
+  "thisField": "This Field",
+  "isRequired": "is required",
+  "@isRequired": {
+    "description": "is required option"
+  },
+  "mustBeAtleast": "must be atleast",
+  "characters": "characters",
+  "@characters": {
+    "description": "characters option"
+  },
+  "recentActivities": "Recent Activities",
+  "@recentActivities": {
+    "description": "Recent Activities option"
+  },
+  "overview": "Overview",
+  "@overview": {
+    "description": "Overview option"
+  },
+  "paymentReceived": "Payment Received",
+  "from": "From",
+  "justNow": "Just Now",
+  "unknownTenant": "Unknown Tenant",
+  "property": "Property",
+  "saveTenant": "Save Tenant",
+  "@saveTenant": {
+    "description": "Save Tenant option"
+  },
+  "saveStaff": "Save Staff",
+  "@saveStaff": {
+    "description": "Save Staff option"
+  },
+  "addPropertyDetails": "Add Property Details",
+  "@addPropertyDetails": {
+    "description": "Add Property Details option"
+  },
+  "configureProperty": "Configure Property",
+  "@configureProperty": {
+    "description": "Configure Property option"
+  },
+  "quickStartConfiguration": "Quick Start Configuration",
+  "@quickStartConfiguration": {
+    "description": "Quick Start Configuration option"
+  },
+  "prefilledData": "Pre-fill the structure below, or leave default values to configure manually in the next step.",
+  "@prefilledData": {
+    "description": "Prefilled Data option"
+  },
+  "general": "General",
+  "@general": {
+    "description": "General option"
+  },
+  "pushNotifications": "Push Notifications",
+  "@pushNotifications": {
+    "description": "Push Notifications option"
+  },
+  "about": "About",
+  "@about": {
+    "description": "About option"
+  },
+  "noRecentActivities": "No recent activities",
+  "@noRecentActivities": {
+    "description": "No recent activities placeholder"
+  },
+  "totalRevenue": "Total Revenue",
+  "@totalRevenue": {
+    "description": "Total Revenue option"
+  },
+  "totalProperties": "Total Properties",
+  "@totalProperties": {
+    "description": "Total Properties option"
+  },
+  "tenants": "Tenants",
+  "@tenants": {
+    "description": "Tenants option"
+  },
+  "totalExpected": "Total Expected",
+  "@totalExpected": {
+    "description": "Total Expected option"
+  },
+  "pending": "Pending",
+  "@pending": {
+    "description": "Pending option"
+  },
+  "totalUnits": "Total Units",
+  "@totalUnits": {
+    "description": "Total Units option"
+  },
+  "activeTenants": "Active Tenants",
+  "@activeTenants": {
+    "description": "Active Tenants option"
+  },
+  "targetRevenue": "Target Revenue",
+  "@targetRevenue": {
+    "description": "Target Revenue option"
+  },
+  "vacantRooms": "Vacant Rooms",
+  "@vacantRooms": {
+    "description": "Vacant Rooms count label on dashboard"
+  },
+  "vacant": "Vacant",
+  "@vacant": {
+    "description": "Vacant filter label"
+  },
+  "propertyFloorUnitError": "Each floor must have at least one unit",
+  "@propertyFloorUnitError": {
+    "description": "Property floor unit error option"
+  },
+  "unitNameRequired": "Each unit must have a name",
+  "@unitNameRequired": {
+    "description": "Error message when a unit name is empty"
+  },
+  "propertyName": "Property Name",
+  "@propertyName": {
+    "description": "Property Name option"
+  },
+  "address":"Address",
+  "@address": {
+    "description": "Address option"
+  },
+  "propertyType": "Property Type",
+  "@propertyType": {
+    "description": "Property Type option"
+  },
+  "deleteProperty": "Delete Property",
+  "@deleteProperty": {
+    "description": "Delete Property title"
+  },
+  "deletePropertyConfirmation": "Are you sure you want to delete this property? This action cannot be undone.",
+  "@deletePropertyConfirmation": {
+    "description": "Delete Property confirmation message"
+  },    
+  "edit": "Edit",
+  "@edit": {
+    "description": "Edit button text"
+  },
+  "cancel": "Cancel",
+  "@cancel": {
+    "description": "Cancel button text"
+  },
+  "delete": "Delete",
+  "@delete": {
+    "description": "Delete button text"
+  },
+  "editProperty": "Edit Property",
+  "@editProperty": {
+    "description": "Edit Property title"
+  },
+  "tenantDetails": "Tenant Details",
+  "@tenantDetails": {
+    "description": "Tenant Details title"
+  },
+  "staffDetails": "Staff Details",
+  "@staffDetails": {
+    "description": "Staff Details title"
+  },
+  "propertyDetails": "Property Details",
+  "@propertyDetails": {
+    "description": "Property Details title"
+  },
+  "deletePersonConfirmation": "Are you sure you want to delete this person? This action cannot be undone.",
+  "@deletePersonConfirmation": {
+    "description": "Delete person confirmation message"
+  },
+  "call": "Call",
+  "@call": {
+    "description": "Call button text"
+  },
+  "securityDeposit": "Security Deposit",
+  "@securityDeposit": {
+    "description": "Security Deposit option"
+  },
+  "role": "Role",
+  "@role": {
+    "description": "Role option"
+  },
+  "fullName": "Full Name",
+  "@fullName": {
+    "description": "Full Name option"
+  },
+  "emailAddress": "Email Address",
+  "@emailAddress": {
+    "description": "Email Address option"
+  },
+  "required": "Required",
+  "@required": {
+    "description": "Required option"
+  },
+  "invalidEmail": "Invalid Email",
+  "@invalidEmail": {
+    "description": "Invalid Email option"
+  },
+  "phoneNumber": "Phone Number",
+  "@phoneNumber": {
+    "description": "Phone Number option"
+  },
+  "rentAmount": "Rent Amount",
+  "@rentAmount": {
+    "description": "Rent Amount option"
+  },
+  "assignProperty": "Assign Property",
+  "@assignProperty": {
+    "description": "Assign Property option"
+  },
+  "pleaseSelectAProperty": "Please select a property",
+  "@pleaseSelectAProperty": {
+    "description": "Please select a property option"
+  },
+  "pleaseSelectARoom": "Please select a room",
+  "@pleaseSelectARoom": {
+    "description": "Please select a room option"
+  },
+  "numberOfRooms": "Number of Rooms",
+  "@numberOfRooms": {
+    "description": "Number of Rooms option"
+  },
+  "floors": "Floors",
+  "@floors": {
+    "description": "Floors option"
+  },
+  "unitsPerFloor": "Units/Floor",
+  "@unitsPerFloor": {
+    "description": "Units/Floor option"
+  },
+  "roomName": "Room Name",
+  "@roomName": {
+    "description": "Room Name option"
+  },
+  "floorName": "Floor Name",
+  "@floorName": {
+    "description": "Floor Name option"
+  },
+  "totalNoOfFloors": "Total no.of floors",
+  "@totalNoOfFloors": {
+    "description": "Total no.of floors option"
+  },
+  "totalNoOfUnits": "Total no.of units",
+  "@totalNoOfUnits": {
+    "description": "Total no.of units option"
+  },
+  "location": "Location",
+  "@location": {
+    "description": "Location option"
+  },
+  "overview": "Overview",
+  "@overview": {
+    "description": "Overview option"
+  },
+  "occupied": "Occupied",
+  "@Occupied": {
+    "description": "Occupied option"
+  },
+  "structure": "Structure",
+  "@structure": {
+    "description": "Structure option"
+  },
+  "floor": "Floor",
+  "@Floor": {
+    "description": "Floor option"
+  },
+  "changeLanguage": "Change Language",
+  "@changeLanguage": {
+    "description": "Change Language option"
+  },
+  "totalAmount": "Total Amount",
+  "@totalAmount": {
+    "description": "Total Amount label"
+  },
+  "remainingDue": "Remaining Due",
+  "@remainingDue": {
+    "description": "Remaining Due label"
+  },
+  "none": "None",
+  "@none": {
+    "description": "None option"
+  },
+  "active": "Active",
+  "@active": {
+    "description": "Active option"
+  },
+  "inactive": "Inactive",
+  "@inactive": {
+    "description": "Inactive option"
+  },
+  "notAssigned": "Not Assigned",
+  "@notAssigned": {
+    "description": "Not Assigned option"
+  },
+  "month": "Month",
+  "@month": {
+    "description": "Month option"
+  },
+  "employmentDetails": "Employment Details",
+  "@employmentDetails": {
+    "description": "Employment Details option"
+  },
+  "employeeId": "Employee ID",
+  "@employeeId": {
+    "description": "Employee ID option"
+  },
+  "department": "Department",
+  "@department": {
+    "description": "Department option"
+  },
+  "tenant": "Tenant",
+  "@tenant": {
+    "description": "Tenant option"
+  },
+  "amount": "Amount",
+  "@amount": {
+    "description": "Amount option"
+  },
+  "staff": "Staff",
+  "@staff": {
+    "description": "Staff option"
+  },
+  "room": "Room",
+  "@room": {
+    "description": "Room option"
+  },
+  "selectPropertyFirst": "Select a property first",
+  "@selectPropertyFirst": {
+    "description": "Hint text to select property first"
+  },
+  "noRoomsAvailable": "No rooms available",
+  "@noRoomsAvailable": {
+    "description": "Text when no rooms are available"
+  },
+  "selectRoom": "Select Room",
+  "@selectRoom": {
+    "description": "Hint text to select room"
+  },
+  "assign": "Assign",
+  "@assign": {
+    "description": "Assign button text"
+  },
+  "unassign": "Unassign",
+  "@unassign": {
+    "description": "Unassign button text"
+  },
+  "unassignConfirmation": "Are you sure you want to unassign this room?",
+  "@unassignConfirmation": {
+    "description": "Unassign room confirmation message"
+  },
+  "appRole": "App Role",
+  "@appRole": {
+    "description": "App Role option"
+  },
+  "selectRole": "Select Role",
+  "@selectRole": {
+    "description": "Select Role hint"
+  },
+  "manageRoles": "Manage Roles",
+  "@manageRoles": {
+    "description": "Manage Roles option"
+  },
+  "addNewRole": "Add New Role",
+  "@addNewRole": {
+    "description": "Add New Role option"
+  },
+  "roleNameIsRequired": "Role name is required",
+  "@roleNameIsRequired": {
+    "description": "Role name is required option"
+  },
+  "roleName": "Role Name",
+  "@roleName": {
+    "description": "Role Name option"
+  },
+  "description": "Description",
+  "@description": {
+    "description": "Description option"
+  },
+  "hintText": "Brief description of the role",
+  "@hintText": {
+    "description": "Hint text for description"
+  },
+  "permissions": "Permissions",
+  "@permissions": {
+    "description": "Permissions option"
+  },
+  "editRole": "Edit Role",
+  "@editRole": {
+    "description": "Edit Role option"
+  },
+  "deleteRole": "Delete Role",
+  "@deleteRole": {
+    "description": "Delete Role option"
+  },
+  "areYouSureYouWantToDeleteTheRole": "Are you sure you want to delete the role? This action cannot be undone.",
+  "@areYouSureYouWantToDeleteTheRole": {
+    "description": "Delete role confirmation message"
+  },
+  "noDescriptionProvided": "No description provided.",
+  "@noDescriptionProvided": {
+    "description": "No description provided option"
+  },
+  "noStaffMembersAssignedToThisRole": "No staff members assigned to this role.",
+  "@noStaffMembersAssignedToThisRole": {
+    "description": "No staff members assigned to this role option"
+  },
+  "assignedStaff": "Assigned Staff",
+  "@assignedStaff": {
+    "description": "Assigned Staff option"
+  },
+  "noRolesFound": "No roles found",
+  "@noRolesFound": {
+    "description": "No roles found option"
+  },
+  "editPerson": "Edit Person",
+  "@editPerson": {
+    "description": "Edit Person title"
+  },
+  "updateTenant": "Update Tenant",
+  "@updateTenant": {
+    "description": "Update Tenant button text"
+  },
+  "updateStaff": "Update Staff",
+  "@updateStaff": {
+    "description": "Update Staff button text"
+  },
+  "changePassword": "Change Password",
+  "@changePassword": {
+    "description": "Change Password button text"
+  },
+  "newPassword": "New Password",
+  "@newPassword": {
+    "description": "New Password input label"
+  },
+  "save": "Save",
+  "@save": {
+    "description": "Save button text"
+  },
+  "documents": "Documents",
+  "@documents": {
+    "description": "Documents section title"
+  },
+  "updateDocuments": "Update documents",
+  "@updateDocuments": {
+    "description": "Update documents action"
+  },
+  "tenantDocuments": "Tenant documents",
+  "@tenantDocuments": {
+    "description": "Tenant documents page title"
+  },
+  "emiratesIdDocuments": "Emirates ID",
+  "@emiratesIdDocuments": {
+    "description": "Emirates ID documents label"
+  },
+  "passportFront": "Passport (front)",
+  "@passportFront": {
+    "description": "Passport front label"
+  },
+  "passportBack": "Passport (back)",
+  "@passportBack": {
+    "description": "Passport back label"
+  },
+  "qatarId": "Qatar ID",
+  "@qatarId": {
+    "description": "Qatar ID label"
+  },
+  "addImage": "Add image",
+  "@addImage": {
+    "description": "Add image button"
+  },
+  "viewDocument": "View",
+  "@viewDocument": {
+    "description": "View document action"
+  },
+  "noDocuments": "No documents uploaded",
+  "@noDocuments": {
+    "description": "No documents message"
+  },
+  "documentsSaved": "Documents saved successfully",
+  "@documentsSaved": {
+    "description": "Documents saved success message"
+  },
+  "documentsSaveFailed": "Failed to save documents",
+  "@documentsSaveFailed": {
+    "description": "Documents save error message"
+  },
+  "loadingRoles": "Loading roles...",
+  "@loadingRoles": {
+    "description": "Loading roles message"
+  },
+  "viewPaymentHistory": "View Payment History",
+  "@viewPaymentHistory": {
+    "description": "View Payment History button text"
+  },
+  "contactDetails": "Contact Details",
+  "@contactDetails": {
+    "description": "Contact Details section title"
+  },
+  "couldNotLaunchPDF": "Could not launch PDF",
+  "@couldNotLaunchPDF": {
+    "description": "Could not launch PDF message"
+  },
+  "rentalDetails": "Rental Details",
+  "@rentalDetails": {
+    "description": "Rental Details section title"
+  },
+  "paymentHistory": "Payment History",
+  "@paymentHistory": {
+    "description": "Payment History page title"
+  },
+  "totalPaid": "Total Paid",
+  "@totalPaid": {
+    "description": "Total Paid label"
+  },
+  "noPaymentsFound": "No payments found",
+  "@noPaymentsFound": {
+    "description": "No payments found message"
+  },
+  "receivedBy": "Received by",
+  "@receivedBy": {
+    "description": "Received by label"
+  },
+  "addPayment": "Add Payment",
+  "@addPayment": {
+    "description": "Add Payment button text"
+  } ,
+  "notesOptional": "Notes (Optional)",
+  "@notesOptional": {
+    "description": "Notes (Optional) label"
+  } ,
+  "pleaseSelectAtLeastOnePermission": "Please select at least one permission",
+  "@pleaseSelectAtLeastOnePermission": {
+    "description": "Please select at least one permission message"
+  },
+  "totalPending": "Total Pending",
+  "@totalPending": {
+    "description": "Total Pending label"
+  },
+  "date": "Date",
+  "@date": {
+    "description": "Date label"
+  },
+  "recordedAt": "Recorded at",
+  "@recordedAt": {
+    "description": "Recorded at label"
+  },
+  "paymentDate": "Payment Date",
+  "@paymentDate": {
+    "description": "Payment Date label"
+  },
+  "pastLeases": "Past Leases",
+  "@pastLeases": {
+    "description": "Past Leases label"
+  },
+  "currentLease": "Current Lease",
+  "@currentLease": {
+    "description": "Current Lease label"
+  },
+  "leaseHistory": "Lease History",
+  "@leaseHistory": {
+    "description": "Lease History label"
+  },
+  "noActiveLease": "Not currently a tenant",
+  "@noActiveLease": {
+    "description": "Message for tenants without active assignment"
+  },
+  "startDate": "Start Date",
+  "@startDate": {
+    "description": "Start Date label"
+  },
+  "endDate": "End Date",
+  "@endDate": {
+    "description": "End Date label"
+  },
+  "viewPayments": "View Payments",
+  "@viewPayments": {
+    "description": "View Payments button text"
+  },
+  "noLeaseHistory": "No lease history found",
+  "@noLeaseHistory": {
+    "description": "Message shown when there is no lease history"
+  },
+  "manageProperties": "Manage Properties",
+  "@manageProperties": {
+    "description": "Manage Properties option"
+  },
+  "manageStaffs": "Manage Staffs",
+  "@manageStaffs": {
+    "description": "Manage Staffs option"
+  },
+  "recurringMonthlyRent": "Recurring Monthly Rent",
+  "@recurringMonthlyRent": {
+    "description": "Recurring monthly rent toggle label"
+  },
+  "leaseDurationNotice": "Please enter the number of days for this lease",
+  "@leaseDurationNotice": {
+    "description": "Lease duration notice text"
+  },
+  "leaseDurationDays": "Duration in Days",
+  "@leaseDurationDays": {
+    "description": "Lease duration input label"
+  }
+ }
+
